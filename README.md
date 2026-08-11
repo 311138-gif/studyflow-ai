@@ -24,5 +24,5 @@
 
  ## 專案成果
 
-- [查看專案成果報告](./StudyFlow_Project.pdf)
-- [查看專案簡報](./StudyFlow_Presentation.pdf)
+- [查看專案英文簡報](https://github.com/311138-gif/studyflow-ai/blob/main/SmartNote%20_%20AI%20-%20StudyFlow.pdf))
+- [查看專案中文簡報](./StudyFlow_Presentation.pdf)
