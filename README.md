@@ -24,5 +24,5 @@
 
  ## 專案成果
 
-- [📄 查看專案英文簡報](./StudyFlow_英文簡報.pdf)
-- [📄 查看專案中文簡報](./StudyFlow_中文簡報.pdf)
+- [📄 查看專案英文簡報](./StudyFlow_英文簡報.pdf.pdf)
+- [📄 查看專案中文簡報](./StudyFlow_中文簡報.pdf.pdf)
